@@ -1,0 +1,170 @@
+**********************************************************************
+File results.txt selected - Planes departing London Heathrow 2025.
+**********************************************************************
+
+The total number of flights from this airport was 290.
+The total number of flights departing Runway one was 151.
+The total number of departures on flights over 500 miles was 182.
+There were 88 British Airways flights from this airport.
+There were 153 flights from this airport departing in rain.
+There was an average of 24.17 flights per hour from this airport.
+Air France planes made up 16.21% of all departures.
+29.31% of all departures were delayed.
+There were 6 hours in which rain fell.
+The most common destination is ['Istanbul Airport International'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing London Heathrow 2025.
+**********************************************************************
+
+The total number of flights from this airport was 290.
+The total number of flights departing Runway one was 151.
+The total number of departures on flights over 500 miles was 182.
+There were 88 British Airways flights from this airport.
+There were 153 flights from this airport departing in rain.
+There was an average of 24.17 flights per hour from this airport.
+Air France planes made up 16.21% of all departures.
+29.31% of all departures were delayed.
+There were 6 hours in which rain fell.
+The most common destination is ['Istanbul Airport International'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing Charles De Gaulle International 2021.
+**********************************************************************
+
+The total number of flights from this airport was 32.
+The total number of flights departing Runway one was 6.
+The total number of departures on flights over 500 miles was 23.
+There were 3 British Airways flights from this airport.
+There were 19 flights from this airport departing in rain.
+There was an average of 2.67 flights per hour from this airport.
+Air France planes made up 18.75% of all departures.
+40.62% of all departures were delayed.
+There were 7 hours in which rain fell.
+The most common destination is ['Rome Fiumicino'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing London Heathrow 2025.
+**********************************************************************
+
+The total number of flights from this airport was 290.
+The total number of flights departing Runway one was 151.
+The total number of departures on flights over 500 miles was 182.
+There were 88 British Airways flights from this airport.
+There were 153 flights from this airport departing in rain.
+There was an average of 24.17 flights per hour from this airport.
+Air France planes made up 16.21% of all departures.
+29.31% of all departures were delayed.
+There were 6 hours in which rain fell.
+The most common destination is ['Istanbul Airport International'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing Charles De Gaulle International 2021.
+**********************************************************************
+
+The total number of flights from this airport was 32.
+The total number of flights departing Runway one was 6.
+The total number of departures on flights over 500 miles was 23.
+There were 3 British Airways flights from this airport.
+There were 19 flights from this airport departing in rain.
+There was an average of 2.67 flights per hour from this airport.
+Air France planes made up 18.75% of all departures.
+40.62% of all departures were delayed.
+There were 7 hours in which rain fell.
+The most common destination is ['Rome Fiumicino'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing London Heathrow 2025.
+**********************************************************************
+
+The total number of flights from this airport was 290.
+The total number of flights departing Runway one was 151.
+The total number of departures on flights over 500 miles was 182.
+There were 88 British Airways flights from this airport.
+There were 153 flights from this airport departing in rain.
+There was an average of 24.17 flights per hour from this airport.
+Air France planes made up 16.21% of all departures.
+29.31% of all departures were delayed.
+There were 6 hours in which rain fell.
+The most common destination is ['Istanbul Airport International'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing Charles De Gaulle International 2021.
+**********************************************************************
+
+The total number of flights from this airport was 32.
+The total number of flights departing Runway one was 6.
+The total number of departures on flights over 500 miles was 23.
+There were 3 British Airways flights from this airport.
+There were 19 flights from this airport departing in rain.
+There was an average of 2.67 flights per hour from this airport.
+Air France planes made up 18.75% of all departures.
+40.62% of all departures were delayed.
+There were 7 hours in which rain fell.
+The most common destination is ['Rome Fiumicino'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing London Heathrow 2025.
+**********************************************************************
+
+The total number of flights from this airport was 290.
+The total number of flights departing Runway one was 151.
+The total number of departures on flights over 500 miles was 182.
+There were 88 British Airways flights from this airport.
+There were 153 flights from this airport departing in rain.
+There was an average of 24.17 flights per hour from this airport.
+Air France planes made up 16.21% of all departures.
+29.31% of all departures were delayed.
+There were 6 hours in which rain fell.
+The most common destination is ['Istanbul Airport International'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing Charles De Gaulle International 2021.
+**********************************************************************
+
+The total number of flights from this airport was 32.
+The total number of flights departing Runway one was 6.
+The total number of departures on flights over 500 miles was 23.
+There were 3 British Airways flights from this airport.
+There were 19 flights from this airport departing in rain.
+There was an average of 2.67 flights per hour from this airport.
+Air France planes made up 18.75% of all departures.
+40.62% of all departures were delayed.
+There were 7 hours in which rain fell.
+The most common destination is ['Rome Fiumicino'].
+
+
+
+**********************************************************************
+File results.txt selected - Planes departing London Heathrow 2025.
+**********************************************************************
+
+The total number of flights from this airport was 290.
+The total number of flights departing Runway one was 151.
+The total number of departures on flights over 500 miles was 182.
+There were 88 British Airways flights from this airport.
+There were 153 flights from this airport departing in rain.
+There was an average of 24.17 flights per hour from this airport.
+Air France planes made up 16.21% of all departures.
+29.31% of all departures were delayed.
+There were 6 hours in which rain fell.
+The most common destination is ['Istanbul Airport International'].
+
+
+
